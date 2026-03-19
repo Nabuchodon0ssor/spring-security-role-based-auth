@@ -38,9 +38,11 @@ The application uses role-based authorization:
 
 ## Screenshots
 
-### Employee List
-![Employee List](images/Screenshot.png)
+### Authentication page
+![Authentication page](images/Screenshot.png)
 
+### Employee Dashboard
+![Employee Dashboard](images/Screenshot2.png)
 ---
 
 ## 🛠 Requirements
