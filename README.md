@@ -39,10 +39,10 @@ The application uses role-based authorization:
 ## Screenshots
 
 ### Authentication page
-![Authentication page](images/Screenshot.png)
+![Authentication page](images/Screenschot.png)
 
 ### Employee Dashboard
-![Employee Dashboard](images/Screenshot2.png)
+![Employee Dashboard](images/Screenschot2.png)
 ---
 
 ## 🛠 Requirements
